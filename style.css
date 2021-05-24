@@ -157,3 +157,7 @@ li > * {
     font-weight: 500;
 }
 
+.myGithub {
+    text-decoration: none;
+    color: black;
+}
